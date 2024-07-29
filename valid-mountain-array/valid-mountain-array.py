@@ -19,6 +19,4 @@ class Solution:
                     return False
         if not decrease:
             return False
-        if not increase:
-            return False
         return True
